@@ -1,0 +1,1 @@
+var posts=["2023/10/15/hello-world/","2023/10/15/MarkDown-Use-Guide/","2023/10/15/passage/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
