@@ -1,5 +1,8 @@
 ---
 title: Conda
+categories: [Conda]
+tags: [conda]
+date: 2021-08-11 16:18:32
 ---
 
 

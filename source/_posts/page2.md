@@ -1,5 +1,8 @@
 ---
 title: Git
+categories: [Git]
+tags: [Git]
+date: 2021-08-11 16:00:00
 ---
 
 
