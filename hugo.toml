@@ -1,5 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Fried-blog'
-theme = 'FixIt'
-defaultContentLanguage = 'zh-cn'
